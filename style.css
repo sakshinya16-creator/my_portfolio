@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: rgb(187, 224, 244);
+    color:black;
+}
+
+nav{
+    background-color: rgb(107, 197, 246);
+    padding-top: 4px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px;
+}
+nav a{
+    color: black;
+    padding: 4px;
+    
+}
+nav a:hover{
+    color: blue;
+}
+.social-icons a:hover{
+    color: blue;
+}
+.social-icons a{
+    color: black;
+    padding-right: 10px;
+}
+section{
+    padding: 15px;
+    margin: 15px;
+    line-height: 1.5;
+}
+h1{
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+#about{
+    margin-top: 100px;
+}
+h2{
+    padding-bottom: 15px;
+}
+.edu{
+    border: 2px solid rgb(81, 176, 234);
+    margin-bottom:25px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(163, 216, 241);
+}
+
+#education{
+    margin-top: 100px;
+}
+#skills{
+    margin-top: 100px;
+}
+.icon{
+    border: 2px solid rgb(101, 196, 240);
+    background-color:  rgb(107, 201, 245) ;
+    padding: 3px;
+    border-radius: 20px;
+}
+.skill{
+    border: 2px solid rgb(81, 176, 234);
+    margin-bottom: 25px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(163, 216, 241);
+}
+#project{
+    margin-top: 100px;}
+.pro{
+    border: 2px solid rgb(81, 176, 234);
+    margin-bottom: 25px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(163, 216, 241);
+}
+#contact{
+    margin-top: 100px;}
+
